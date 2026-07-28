@@ -25,6 +25,6 @@ I bridge an analytical background in **Biological Sciences** with **Data Analysi
 ---
 
 ## ⚡ Core Philosophy
-> *"Cybersecurity in modern enterprise isn't just about code; it's an extension of operational safety protocols. I apply the same meticulous risk management learned in high-containment microbiology labs to securing network endpoints and cloud assets."*
+> *"Cybersecurity in modern enterprise isn't just about code; it's an extension of operational safety protocols. I apply the same meticulous risk management learned in high containment microbiology labs to securing network endpoints and cloud assets."*
 
 📬 **Let's Connect:** [Review my full profile repository layout below!]
